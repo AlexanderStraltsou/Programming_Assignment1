@@ -31,6 +31,7 @@ namespace Programming_Assignment1
             string textValue = Console.ReadLine();
             age = int.Parse(textValue);
 
+
             Console.WriteLine("Are you pet a female (y/n?)");
             string stringGender = Console.ReadLine();
 
